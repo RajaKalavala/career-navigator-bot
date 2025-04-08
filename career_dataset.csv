@@ -1,0 +1,55 @@
+career_name,required_skills,learning_path,common_job_titles,recommended_tools,career_id
+Data Scientist,"Python, SQL, Machine Learning",Learn Python > Learn ML > Work on datasets,"ML Engineer, Data Analyst","Jupyter, Pandas, Scikit-learn",1
+UI/UX Designer,"User Research, Wireframing, Figma, Visual Design",Study design principles > Learn Figma > Practice wireframes > Build UI portfolio,"UI Designer, UX Designer, Product Designer","Figma, Adobe XD, Sketch",2
+Digital Marketer,"SEO, SEM, Google Analytics, Content Strategy",Learn SEO basics > Understand Google Ads > Build marketing funnels > Analyze campaigns,"SEO Specialist, Digital Marketing Manager, Content Strategist","Google Analytics, SEMrush, Ahrefs",3
+Full Stack Developer,"JavaScript, React, Node.js, Database Management",Learn HTML/CSS > Master JavaScript > Learn React and Node.js > Build full-stack projects,"Frontend Developer, Backend Developer, Full Stack Engineer","VSCode, React, Node.js, MongoDB",4
+Product Manager,"Roadmapping, Stakeholder Management, Market Research",Understand product lifecycle > Learn stakeholder communication > Practice roadmap creation,"Associate Product Manager, Product Owner, Product Manager","JIRA, Confluence, Trello",5
+Cloud Engineer,"AWS, Azure, Linux, Terraform, CI/CD",Learn cloud basics > Get AWS/GCP certified > Deploy services > Automate infrastructure,"Cloud Engineer, Solutions Architect, Infrastructure Engineer","AWS, Azure, Terraform, Docker",6
+Cybersecurity Analyst,"Network Security, Risk Assessment, Penetration Testing",Study cybersecurity basics > Learn tools like Wireshark > Practice ethical hacking,"Security Analyst, Penetration Tester, Information Security Specialist","Wireshark, Burp Suite, Nessus",7
+Mobile App Developer,"Kotlin, Swift, UI Design, API Integration",Learn Android/iOS basics > Build sample apps > Study API and database usage,"Android Developer, iOS Developer, Mobile Software Engineer","Android Studio, Xcode, Firebase",8
+Business Analyst,"Data Visualization, SQL, Business Acumen",Understand business goals > Learn Excel and SQL > Study data storytelling,"Business Analyst, Data Analyst, BI Analyst","Excel, Tableau, Power BI",9
+DevOps Engineer,"Docker, Jenkins, CI/CD Pipelines, Monitoring",Learn scripting > Set up CI/CD > Monitor apps > Automate pipelines,"DevOps Engineer, Site Reliability Engineer, Automation Engineer","Jenkins, GitLab CI, Prometheus",10
+AI/ML Engineer,"Deep Learning, NLP, TensorFlow, PyTorch",Study machine learning > Practice with TensorFlow > Work on AI projects,"AI Engineer, Machine Learning Engineer, Research Scientist","TensorFlow, PyTorch, Keras",11
+Content Writer,"SEO Writing, Research, WordPress, Editing",Learn content strategy > Practice SEO writing > Publish on blogs,"Content Writer, Copywriter, Blogger","Grammarly, Google Docs, Surfer SEO",12
+Graphic Designer,"Photoshop, Illustrator, Branding, Typography",Learn graphic tools > Study branding > Build design portfolio,"Graphic Designer, Visual Designer, Brand Designer","Adobe Illustrator, Photoshop, Canva",13
+Financial Analyst,"Excel, Financial Modeling, Risk Analysis",Understand finance basics > Learn Excel modeling > Analyze reports,"Financial Analyst, Investment Analyst, Risk Analyst","Excel, Bloomberg Terminal, Power BI",14
+Software Tester,"Manual Testing, Selenium, Bug Tracking",Study testing lifecycle > Learn tools like Selenium > Report bugs,"QA Engineer, Software Tester, Quality Analyst","Selenium, JIRA, TestRail",15
+Systems Administrator,"Linux, Scripting, Troubleshooting, Networking",Master Linux > Learn shell scripting > Manage systems,"Systems Administrator, IT Admin, Network Admin","Linux, Bash, Ansible",16
+Game Developer,"Unity, C#, Game Design, 3D Modeling",Learn game engines > Study 3D modeling > Build simple games,"Game Developer, Game Designer, Unity Developer","Unity, Blender, Unreal Engine",17
+HR Specialist,"Recruitment, Employee Engagement, Labor Laws",Study HR principles > Learn recruitment lifecycle > Practice engagement strategies,"HR Executive, Talent Acquisition Specialist, HRBP","Zoho Recruit, BambooHR, SAP SuccessFactors",18
+Blockchain Developer,"Smart Contracts, Solidity, Ethereum, Cryptography",Learn blockchain fundamentals > Practice Solidity > Build DApps,"Blockchain Developer, Crypto Engineer, Smart Contract Developer","Remix IDE, MetaMask, Truffle",19
+Technical Support Engineer,"Customer Service, Troubleshooting, Ticketing Tools",Learn customer support tools > Practice troubleshooting > Handle support tickets,"Tech Support Engineer, Helpdesk Technician, IT Support Specialist","Zendesk, Freshdesk, Jira Service Desk",20
+Software Engineer,"Java, Python, Problem Solving",Learn programming > Study algorithms > Build projects,"Backend Developer, Frontend Developer","VSCode, GitHub, IntelliJ",21
+Electrical Engineer,"Circuit Design, MATLAB",Study electrical basics > Learn simulation tools > Practice projects,"Design Engineer, Systems Engineer","MATLAB, Multisim",22
+School Teacher,"Subject Knowledge, Classroom Management",Earn a degree > Get teaching license > Classroom experience,"Math Teacher, Science Teacher","Google Classroom, MS Office",23
+College Professor,"Research, Teaching",PhD > Research papers > University lectures,"Assistant Professor, Lecturer","LaTeX, Moodle",24
+Tutor,"Subject Mastery, Communication",Choose subject > Develop materials > Take private classes,"Private Tutor, Online Tutor","Zoom, Khan Academy",25
+Doctor,"Medical Knowledge, Patient Care",MBBS > Internship > Specialization,"General Physician, Surgeon","Stethoscope, EMR systems",26
+Nurse,"Patient Care, Medical Assistance",Nursing degree > Clinical practice,"Registered Nurse, Staff Nurse","Syringe, Health Monitor",27
+Physiotherapist,"Body Mechanics, Therapy",BPT > Practice > Specialization,"Sports Physio, Rehab Expert","Stretch bands, EMS machine",28
+Plumber,"Pipework, Maintenance",Apprenticeship > Certification > On-the-job practice,"Maintenance Plumber, Pipefitter","Wrench, Pipe Cutter",29
+Electrician,"Wiring, Safety",Trade school > License > Practice,"Residential Electrician, Commercial Electrician","Multimeter, Wire Stripper",30
+Carpenter,"Woodwork, Measurement",Learn tools > Apprentice > Start projects,"Furniture Maker, Joiner","Saw, Hammer, Chisel",31
+Photographer,"Camera Skills, Editing",Study basics > Practice > Build portfolio,"Wedding Photographer, Wildlife Photographer","DSLR, Lightroom",32
+Writer,"Grammar, Creativity",Practice daily > Understand genres > Submit work,"Content Writer, Author","Grammarly, MS Word",33
+Sales Manager,"Communication, Target Driven",Sales training > Product knowledge > Experience,"Territory Manager, Key Accounts","CRM tools, Excel",34
+HR Manager,"Recruitment, People Skills",HR degree > Tools > Policy understanding,"Talent Acquisition, HRBP","SAP, BambooHR",35
+Truck Driver,"Driving, Route Planning",Obtain license > Safety training,"Logistics Driver, Long Haul Driver","GPS, Logbook",36
+Cab Driver,"Driving, Customer Handling",License > Join platform > Drive,"Uber Driver, Ola Driver","Ride App, Google Maps",37
+Pilot,"Navigation, Flight Mechanics",Aviation school > Flying hours > License,"Commercial Pilot, Co-Pilot","Flight Simulator, Cockpit Instruments",38
+Police Officer,"Law, Fitness",Written exam > Police academy > Field training,"Traffic Officer, Sub-Inspector","Handcuffs, Radio",39
+Firefighter,"Rescue, Emergency Response",Physical training > Fire academy > Safety protocol,"Rescue Officer, Hose Operator","Fire Extinguisher, Gear",40
+Civil Servant,"Administration, Policy",Take exams > Training > Office posting,"IAS, Revenue Officer","RTI Portal, Govt Docs",41
+Chef,"Cooking, Creativity",Culinary school > Practice > Work in kitchens,"Sous Chef, Executive Chef","Knife Set, Oven",42
+Waiter,"Customer Service, Menu Knowledge",Training > Practice > Upsell,"Server, Steward","POS Machine, Tray",43
+Hotel Manager,"Operations, Guest Service",Hotel mgmt degree > Experience > Policy mgmt,"Front Desk Manager, Operations Head","PMS Software, Reservation System",44
+Frontend Developer,"HTML, CSS, JavaScript, React",Learn HTML/CSS > Master JavaScript > Learn React > Build interfaces,"React Developer, UI Developer, Web Frontend Engineer","VSCode, React, Chrome DevTools",11
+Backend Developer,"Node.js, Java, Databases, APIs",Learn Node.js > Study databases > Practice building APIs,"Node.js Developer, API Engineer, Server-side Developer","Postman, MongoDB, IntelliJ",12
+Web Developer,"HTML, CSS, JavaScript, Angular",Learn HTML/CSS > Learn JavaScript > Master Angular > Build websites,"Web Developer, Angular Developer","Angular CLI, VSCode, Chrome DevTools",13
+Machine Learning Engineer,"Python, Scikit-learn, ML Algorithms",Learn Python > Learn ML libraries > Build ML models,"ML Engineer, AI Developer","Jupyter, Scikit-learn, NumPy",14
+DevOps Engineer,"Docker, Kubernetes, CI/CD, Linux",Learn DevOps tools > Build pipelines > Automate deployments,"SRE, Infrastructure Engineer","Docker, Jenkins, Kubernetes",15
+Data Engineer,"SQL, Python, Big Data, ETL",Learn SQL > Learn Python > Work on ETL pipelines,"Big Data Engineer, Data Pipeline Engineer","Airflow, Spark, Hadoop",16
+Database Administrator,"SQL, Database Tuning, Backups",Learn SQL > Understand indexing > Practice database operations,"DBA, SQL Admin","MySQL, PostgreSQL, SQL Server",17
+Mobile App Developer,"Flutter, Dart, Android, iOS",Learn Dart > Use Flutter > Build cross-platform apps,"Flutter Developer, Mobile App Engineer","Flutter, Android Studio, Xcode",18
+Cloud Architect,"AWS, GCP, Cloud Security",Get cloud certified > Learn architecture > Design scalable apps,"Cloud Solutions Architect, Cloud Consultant","AWS Console, GCP Console, Terraform",19
+AI Research Scientist,"Deep Learning, NLP, Research",Learn advanced ML > Publish papers > Solve real-world problems,"AI Scientist, Researcher","PyTorch, HuggingFace, ArXiv",20
