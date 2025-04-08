@@ -1,16 +1,16 @@
-# 💼 Career Navigator Bot
+# Career Navigator Bot
 
 An intelligent conversational AI chatbot built using OpenAI GPT-4 and Streamlit, designed to help users explore personalized career paths based on their interests, skills, and education.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 [Click here to try the Streamlit app](https://career-navigator-bot-yovovwv5audmuczk2gnrpl.streamlit.app/)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Career Navigator Bot is a career guidance assistant powered by OpenAI’s GPT-4 with function calling. The bot collects user interests and skills through a multi-turn conversation and recommends the most suitable career paths from a curated dataset of 70+ roles across industries.
 
@@ -23,7 +23,7 @@ It also provides structured details such as:
 
 ---
 
-## 🧠 Features
+## Features
 
 - ✅ GPT-4 turbo with function calling
 - ✅ Multi-turn conversational input
@@ -34,7 +34,7 @@ It also provides structured details such as:
 
 ---
 
-## 🧱 System Architecture
+## System Architecture
 
 ```
 +-------------+       +--------------------+       +--------------------------+
@@ -45,7 +45,7 @@ It also provides structured details such as:
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 Custom-built CSV with 70+ career profiles containing:
 
@@ -59,7 +59,7 @@ You can find it [here](career_dataset.csv)
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 career-navigator-bot/
@@ -74,7 +74,7 @@ career-navigator-bot/
 
 ---
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
 
@@ -105,13 +105,13 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
 - **Raja Kalavala**
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 - Add login and persistent user profiles
 - Integrate salary, growth, and location data
@@ -121,6 +121,6 @@ streamlit run app.py
 
 ---
 
-## 📃 License
+## License
 
 MIT License. You are free to use, fork, and improve this project with credit.
