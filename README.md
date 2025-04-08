@@ -34,31 +34,6 @@ It also provides structured details such as:
 
 ---
 
-## System Architecture
-
-```
-+-------------+       +--------------------+       +--------------------------+
-|   User UI   | <---> |  GPT-4 Function API| <---> |  Helper Functions + CSV  |
-| (Streamlit) |       |  + Prompt + Memory |       | (Career Matching Logic)  |
-+-------------+       +--------------------+       +--------------------------+
-```
-
----
-
-## Dataset
-
-Custom-built CSV with 70+ career profiles containing:
-
-- Career Name
-- Required Skills
-- Learning Path
-- Common Job Titles
-- Recommended Tools
-
-You can find it [here](career_dataset.csv)
-
----
-
 ## File Structure
 
 ```
@@ -108,16 +83,6 @@ streamlit run app.py
 ## Contributors
 
 - **Raja Kalavala**
-
----
-
-## Future Scope
-
-- Add login and persistent user profiles
-- Integrate salary, growth, and location data
-- Visualize learning paths as roadmaps
-- RAG architecture for document-based recommendations
-- API integrations (Coursera, Udemy, etc.)
 
 ---
 
